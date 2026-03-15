@@ -36,8 +36,8 @@ Chatbot con capacidades RAG que permite subir documentos y consultar su contenid
 ### Setup
 
 ```bash
-git clone https://github.com/tu-usuario/challenge-laburen.git
-cd challenge-laburen
+git clone https://github.com/DePalma2/ai-rag-agent.git
+cd ai-rag-agent
 npm install
 ```
 
