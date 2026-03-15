@@ -1,4 +1,4 @@
-# Challenge Laburen - AI RAG Agent.
+# AI RAG Agent.
 
 Chatbot con capacidades RAG que permite subir documentos y consultar su contenido mediante búsqueda semántica con pgvector.
 
